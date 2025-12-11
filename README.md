@@ -133,5 +133,5 @@ Docker Compose for both frontend & backend
 Deployment on Render / Vercel / Railway / AWS
 
 ❤️ Author
-Amitava Kar
+EngineerAmitG
 Full Stack Java Developer
